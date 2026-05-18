@@ -1,4 +1,4 @@
-"Test de la CI/CD pour le projet"
+"Mise en place de la branche officielle de développement (develop)."
 
 
 # DevOps
